@@ -9,7 +9,7 @@
 #    None
 #
 # Database password
-PWD = 'sdnelson43'
+PWD = 'password'
 #
 # Create the database
 CREATEDB = 'CREATE DATABASE netflix WITH OWNER = postgres ENCODING "UTF8" CONNECTION LIMIT = -1'
